@@ -1,0 +1,24 @@
+.container{
+	border: 5px green solid;
+	background: white;
+}
+.section1{
+	border: 5px red solid;
+
+}
+.insideSection1{
+	border: 5px yellow solid;
+}
+.section2{
+	border: 5px blue solid;
+
+}
+.insideSection2{
+
+	border: 5px violet solid;
+
+}
+.section3{
+	border: 5px blue solid;
+
+}
