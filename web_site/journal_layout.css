@@ -1,20 +1,35 @@
-*{
+
+body{
 	margin: 0% 10% 0 10%;
-	/* background-image: url(images/); */
+	background-image: url(images/113.jpg);
 }
 .container{
-	border: 5px green solid;
+	border: 10px white solid;
 	background: white;
 }
 .section1{
-	border: 5px red solid;
 
+	background: #A8F0F0;
+}
+.section1Ins{
+	
+}
+.h1-1{
+	text-align: right;
+	padding: 0;
+}
+.h2{
+	text-align: right;
+	padding: 0;
 }
 .insideSection1{
-	border: 5px yellow solid;
+	
+
+	font-size: 12pt;
 }
 .section2{
-	border: 5px blue solid;
+	min-height: 220px;
+	border: 4px #C2E9E9 solid;
 	background: #E8FBFB;
 	padding: 5px 5px;
 	margin-top: 10px;
@@ -22,13 +37,21 @@
 }
 .insideSection2{
 
-	border: 5px violet solid;
+	border-bottom: 2px rgb(109, 109, 233) dashed;
 
 }
 .section3{
-	border: 5px blue solid;
+	min-height: 220px;
+	border: 4px #C2E9E9 solid;
 	background: #E8FBFB;
 	padding: 5px 5px;
 	margin-top: 10px;
 
+}
+.ps{
+	display: block;
+}
+.img{
+	float: right;
+	overflow: hidden;
 }
